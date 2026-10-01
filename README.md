@@ -34,4 +34,4 @@ $ mvn archetype:generate \
   -DgroupId=info.maigo.lab.hello \
   -DartifactId=maigolab_hello
 ```
-
+Jenkins Webhook Test
