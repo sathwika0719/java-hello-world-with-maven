@@ -35,3 +35,5 @@ $ mvn archetype:generate \
   -DartifactId=maigolab_hello
 ```
 Jenkins Webhook Test
+
+Jenkins webhook email notification test
