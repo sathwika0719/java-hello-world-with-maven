@@ -37,3 +37,5 @@ $ mvn archetype:generate \
 Jenkins Webhook Test
 
 Jenkins webhook email notification test
+
+Jenkins automatic webhook email test
